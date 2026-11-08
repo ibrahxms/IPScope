@@ -1,6 +1,6 @@
 # IPScope
 
-<img width="978" height="513" alt="image" src="https://github.com/user-attachments/assets/3ddd6c11-9d70-41b2-9610-055b9e92d51b" />
+<img width="978" height="513" alt="image" src="https://github.com/user-attachments/assets/c49cf2f7-496b-4420-9c3a-be99fbeccc0a" />
 
 
 A fast, colorful terminal tool for looking up IP addresses: location, ISP, ASN, and VPN / proxy detection, with a one-key jump to the map.
@@ -18,11 +18,11 @@ A fast, colorful terminal tool for looking up IP addresses: location, ISP, ASN, 
 
 ## Install
 
-Requires Python 3.8+.
+Requires Python 3.8+. Dependencies: `requests` and `colorama` (colors on Windows).
 
 ```bash
-git clone https://github.com/ibrahxms/ipscope.git
-cd ipscope
+git clone https://github.com/ibrahxms/IPScope.git
+cd IPScope
 pip install -r requirements.txt
 ```
 
